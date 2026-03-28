@@ -1,5 +1,4 @@
 // matrix question
-//solved by code with harry(edited)
 // k will be n(which will be enimilate after result)
 
 #include <stdio.h>
